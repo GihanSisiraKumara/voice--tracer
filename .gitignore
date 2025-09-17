@@ -1,0 +1,17 @@
+# Firebase service account keys
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Other sensitive files
+keys/
